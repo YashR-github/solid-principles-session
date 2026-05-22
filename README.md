@@ -304,7 +304,7 @@ Final Takeaway:
 ## 4. I : Interface Segregation Principle (ISP)
 The I in SOLID design principles stands for interface segregation, which indicates that bigger interfaces should be divided into smaller ones. By doing so, we can ensure that implementing classes is only concerned with the methods that are relevant to them. In other words, multiple client-specific interfaces are better than a single generic interface.
 
-Key ideas:
+Key idea :
 - Clients must never be forced to implement an interface or methods in an interface that they do not use.
 
 ```python
