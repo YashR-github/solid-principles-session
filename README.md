@@ -18,7 +18,7 @@ Other time goes into :<br>
 10. Documentation
 11. Devops and CI/CD
 
-Breaks: Play TT, Relax, Coffee/tea etc
+Breaks: Play TT, Read a book, Coffee/tea, Relax etc
 
 So the question is how to **maximize efficiency and accuracy** of the written code and ensure less time in maintaining and refactoring the code?<br>
 **Ans:** By ensuring that whatever work we do, we do it right the first time.
